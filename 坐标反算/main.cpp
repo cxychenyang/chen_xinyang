@@ -14,7 +14,6 @@ int main()
         dx = xb-xa;
         dy = yb-ya;
         double tgsa = (yb-ya)/(xb-xa);
-        /*·½Î»½Ç-»¡¶È*/
         b = atan(tgsa);
         while(true)
         {
